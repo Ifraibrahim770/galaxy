@@ -22,7 +22,7 @@ An Application that Retrieves Galaxy Information from a Publicly Available API
 
 
 ## UI Tests
-- For some of the UI tests animations need to be disabled on the testing device
+- For some of the UI tests, animations need to be disabled on the testing device
 - Go to Settings > Developers Options: Disable Window Animation Scale, Transition Animation Scale and Animator Duration scale
 
 ## Screenshots
