@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Galaxy</string>
+    <string name="milky_way">THE MILKY WAY</string>
+    <string name="description">GSFC | 2015-03-21</string>
+    <string name="title">Hubble Observes One of a Kind Star Named Nasty</string>
+    <string name="galaxy_photos">Galaxy Photos</string>
+    <string name="center_text">Center:</string>
+    <string name="date_created_text">Date Created:</string>
+    <string name="dummy_paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie lectus non urna iaculis, sed consectetur magna pellentesque. Fusce et semper arcu. Vestibulum congue augue ex, eget suscipit felis eleifend at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse non ultrices lacus. In aliquet, velit sed gravida malesuada, dui ex gravida felis, ac maximus diam arcu vitae libero. Phasellus consectetur odio vitae urna tincidunt pulvinar. Donec id eleifend ipsum. Curabitur et est sed nibh fringilla facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque eu blandit libero. Nunc viverra maximus purus, at dapibus orci euismod hendrerit. Morbi blandit facilisis nibh sed tincidunt. Praesent sed neque a augue aliquet luctus. Praesent vestibulum dictum nisl, eleifend commodo eros consectetur vitae. Maecenas elementum vehicula nulla eu mollis.</string>
+    <string name="date_created_txt">2015-03-21</string>
+    <string name="center_txt">GS-FC</string>
+    <string name="error_main">Error, Try Again</string>
+    <string name="loading_txt">Loading...</string>
+</resources>
